@@ -58,6 +58,6 @@ validation curves, a confusion matrix, a classification report,
 and interactive predictions.
 
 ## Author
-Student: [Your Name]
+Student: ASMIT KUMAR
 Course: Artificial Neural Networks
 Activity: Activity 2
